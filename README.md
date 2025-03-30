@@ -1,2 +1,2 @@
-# mamta_sahu_portfolio_website
+# mamta_portfolio
 I developed this portfolio using laravel framework
